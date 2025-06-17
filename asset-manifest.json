@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/paradise-project/static/css/main.7c869dc1.css",
+    "main.css": "/paradise-project/static/css/main.812f61f2.css",
     "main.js": "/paradise-project/static/js/main.76acf97b.js",
     "static/js/453.ed3810f9.chunk.js": "/paradise-project/static/js/453.ed3810f9.chunk.js",
     "static/media/slid3.jpg": "/paradise-project/static/media/slid3.023511edc159ba612e9d.jpg",
@@ -26,12 +26,12 @@
     "static/media/gallery2.jpg": "/paradise-project/static/media/gallery2.627ef922d61b2c22704f.jpg",
     "static/media/gallery6.jpg": "/paradise-project/static/media/gallery6.c7c006278fbde4352e3d.jpg",
     "index.html": "/paradise-project/index.html",
-    "main.7c869dc1.css.map": "/paradise-project/static/css/main.7c869dc1.css.map",
+    "main.812f61f2.css.map": "/paradise-project/static/css/main.812f61f2.css.map",
     "main.76acf97b.js.map": "/paradise-project/static/js/main.76acf97b.js.map",
     "453.ed3810f9.chunk.js.map": "/paradise-project/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c869dc1.css",
+    "static/css/main.812f61f2.css",
     "static/js/main.76acf97b.js"
   ]
 }
